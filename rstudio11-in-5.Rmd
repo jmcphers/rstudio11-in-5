@@ -1,0 +1,98 @@
+---
+title: "RStudio 1.1 in 5 Minutes"
+output: 
+  revealjs::revealjs_presentation:
+    theme: black
+    transition: slide
+    reveal_options:
+      autoSlide: 15000
+---
+
+## The terminal
+
+![terminal](img/terminal-htop.png)
+
+## Colored output in console
+
+![colors](img/console-colors.png)
+
+## Connections pane
+
+![connections](img/connections-pane.png)
+
+## Connection wizard
+
+![wizard](img/connection-wizard.png)
+
+## Object explorer
+
+![explorer](img/object-explorer.png)
+
+## Project templates
+
+![templates](img/project-templates.png)
+
+## Dark theme
+
+![very dark](img/dark-theme.png)
+
+## Knit anywhere
+
+![knit anywhere](img/knit-in-dir.png)
+
+## Set notebook mode in header
+
+![nowhere](img/chunk-output-console.png)
+
+## Create git branch
+
+![git it](img/new-git-branch.png)
+
+## Search addins
+
+![addins](img/search-addins.png)
+
+## Insert snippets in R console
+
+![snippets](img/console-snippet.png)
+
+## Ctrl+Enter in help pane
+
+![help it is ctrl enter](img/ctrl-enter-help.png)
+
+## Run paragraphs with Ctrl+Enter
+
+![paragraphs](img/run-paragraph.png)
+
+## Copy To command
+
+![copy-to](img/copy-to.png)
+
+## F2 on data frames
+
+![press f2](img/data-frame-f2.png)
+
+## Ctrl+R for reverse search
+
+![ctrl-r](img/ctrl-r.png)
+
+## Ligature fonts
+
+![ligatures](img/ligature-fonts.png)
+
+## RSP improvements
+
+- Users can label sessions
+- Users can force-quit sessions
+- Admins can 
+- Admins can enforce session cleanup
+
+## The 1.1 Team
+
+- Kevin Ushey (Dev)
+- Gary Ritchie (Dev)
+- Javier Luraschi (Dev)
+- Karl Feinauer (Dev)
+- Jonathan McPherson (Dev)
+- Darby Hadley (QA)
+- Ron Blum (QA)
